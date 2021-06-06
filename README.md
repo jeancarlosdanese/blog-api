@@ -6,4 +6,4 @@ This repository is the storage place for the codes generated from the series of 
 
 List of posts:
 
-1. Criar e rodar uma aplicação FastAPI.
+1. Criar e rodar uma aplicação FastAPI. (v1.0.1)
